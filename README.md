@@ -1,1 +1,1 @@
-# hshs
+# Music Streaming and Discovery Website
